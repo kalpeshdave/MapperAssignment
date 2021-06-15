@@ -33,3 +33,4 @@ en:
   hello: "Hello world"
   home:
     title: Upload Mapper CSV
+    hello: "Hello"
